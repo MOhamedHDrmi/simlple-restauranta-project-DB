@@ -1,6 +1,0 @@
-steps
-1-open new Query and write in it
-	create new database Restaurant;
-2-Open database folder open ("Restaurant.sql")
-3-don't forget to change the master to Restaurant on the top right corner
-4-press Execute
