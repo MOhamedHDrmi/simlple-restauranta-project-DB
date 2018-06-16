@@ -1,0 +1,51 @@
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Branch.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Customer.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Employee.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Main.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Meal.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Order.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Supplier.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\bin\Debug\Restaurant.exe.config
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.exe
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.pdb
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\bin\Debug\Restaurant.exe
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\bin\Debug\Restaurant.pdb
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.Branch.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.Customer.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.Employee.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.Main.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.Meal.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.Order.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.Supplier.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant - Copy\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Report.resources
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\RdlCompile.cache
+D:\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\RdlCompile.compiled
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Branch.resources
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Customer.resources
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Employee.resources
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Main.resources
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Meal.resources
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Order.resources
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Report.resources
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.Supplier.resources
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\RdlCompile.cache
+D:\FCI\Year2\Second_sem\Data Base\Project\Restaurant\Restaurant\obj\Debug\RdlCompile.compiled
