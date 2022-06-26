@@ -1,1 +1,1 @@
-# simlple-restauranta-project-DB
+# simlple-rest-project-DB
